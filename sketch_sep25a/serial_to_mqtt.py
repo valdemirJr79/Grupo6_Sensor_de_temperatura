@@ -11,7 +11,7 @@ broker_address = "test.mosquitto.org"
 broker_port = 1883
 topic = "esp32/dados_sensores"
 client_id = "Python-Serial-Publisher"
-
+ 
 # --- Callbacks MQTT ---
 
 # Assinatura correta para a V2 (5 argumentos)
